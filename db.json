@@ -1,189 +1,187 @@
 {
-  "produtos":
-  [
-    {
-      "_id": "641b33f2cf26ba8d82af08a3",
-      "categoria": "tenis",
-      "nome": "Tênis Infantil Olympikus Maneiro Masculino",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 487.34,
-      "margem": 71
-      },
-      {
-      "_id": "641b33f2102bc894dca06d42",
-      "categoria": "tenis",
-      "nome": "Tênis Olympikus Ultraleve 130G Feminino",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 591.91,
-      "margem": 66
-      },
-      {
-      "_id": "641b33f224834784de2ce8a7",
-      "categoria": "tenis",
-      "nome": "Tênis Olympikus Jogging 101 Masculino",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 372.71,
-      "margem": 68
-      },
-      {
-      "_id": "641b33f2bdd1ce884027355a",
-      "categoria": "tenis",
-      "nome": "Tênis Olympikus Citrus Feminino",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 257.89,
-      "margem": 83
-      },
-      {
-      "_id": "641b33f2b30c6683a7b2f58f",
-      "categoria": "tenis",
-      "nome": "Tênis Olympikus Veloz 2",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 521.78,
-      "margem": 71
-      },
-      {
-      "_id": "641b33f2f2a061d4d0812219",
-      "categoria": "tenis",
-      "nome": "Tênis Masculino Olympikus 43514215",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 356.51,
-      "margem": 80
-      },
-      {
-      "_id": "641b33f206d934e67439b98d",
-      "categoria": "tenis",
-      "nome": "Tenis Olympikus Challenger 4 Masculino",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 663.71,
-      "margem": 55
-      },
-      {
-      "_id": "641b33f21f58e8c9b1ec279c",
-      "categoria": "tenis",
-      "nome": "Tênis Olympikus Aquarios Masculino",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 422.06,
-      "margem": 79
-      },
-      {
-      "_id": "641b34daff9f41cb1e79ad3b",
-      "categoria": "camisa",
-      "nome": "Camisa Polo Ultimato Listrada Masculina",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 160.86,
-      "margem": 48
-      },
-      {
-      "_id": "641b34da1cb10bd7902ca752",
-      "categoria": "camisa",
-      "nome":   "Camisa Polo Colcci Manga Curta Masculina",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 194.25,
-      "margem": 38
-      },
-      {
-      "_id": "641b34daa8c0b37bd75aef3c",
-      "categoria": "camisa",
-      "nome": "Camisa Polo São Paulo Ouro Vintage RetrôMania Masculina",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 187.1,
-      "margem": 38
-      },
-      {
-      "_id": "641b34da71948a39549bf68d",
-      "categoria": "camisa",
-      "nome": "Camisa Polo Adidas Club Masculina",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 194.2,
-      "margem": 37
-      },
-      {
-      "_id": "641b34da02dd3004fdecad7e",
-      "categoria": "camisa",
-      "nome": "Camisa Polo Masculina em Tecido Piquet Vira Lata Wear Kit",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 32.55,
-      "margem": 32
-      },
-      {
-      "_id": "641b34da81fd7da485f10e1c",
-      "categoria": "camisa",
-      "nome": "Camisa Polo Pierre Cardin Lisa Masculina",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 194.41,
-      "margem": 37
-      },
-      {
-      "_id": "641b34daeed8ac4e9c0f694b",
-      "categoria": "camisa",
-      "nome": "Camisa Polo Retro França 1998 Masculina",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 127.27,
-      "margem": 43
-      },
-      {
-      "_id": "641b34da86275a55ef7063ec",
-      "categoria": "camisa",
-      "nome": "Camisa Polo Lacoste Masculina",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 57.71,
-      "margem": 43
-      },
-      {
-      "_id": "641b34daee77f2d26755d2a7",
-      "categoria": "camisa",
-      "nome": "Camisa Polo Nike Sportswear Masculina",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 169.99,
-      "margem": 30
-      },
-      {
-      "_id": "641b34da684cf86b7c261421",
-      "categoria": "camisa",
-      "nome": "Camisa Polo Industrie Lisa Masculina",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 100.2,
-      "margem": 48
-      },
-      {
-      "_id": "641b34658617067113571221",
-      "categoria": "relogio",
-      "nome": "Relogio Masculino casual Analogico Numerico Preto",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 61.96,
-      "margem": 62
-      },
-      {
-      "_id": "641b34655ec563d055f8a768",
-      "categoria": "relogio",
-      "nome": "Relógio Casio Digital Feminino F-91WM-3ADF",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 52.38,
-      "margem": 67
-      },
-      {
-      "_id": "641b3465eb522199b62e53f5",
-      "categoria": "relogio",
-      "nome": "Relogio Masculino Banhado 18k + Pulseira Banhada A Ouro",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 332.66,
-      "margem": 48
-      },
-      {
-      "_id": "641b34657249cbd4053185f5",
-      "categoria": "relogio",
-      "nome": "Relógio Skmei Digital Masculino",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 149.08,
-      "margem": 40
-      },
-      {
-      "_id": "641b3465aca3e26b6472c347",
-      "categoria": "relogio",
-      "nome": "Relógio Tommy Hilfiger Feminino Aço 1782548",
-      "imagem": "http://placehold.it/100x100",
-      "precoCompra": 9.42,
-      "margem": 42
-      }
-  ]  
+	"produtos": [{
+			"_id": "641b33f2cf26ba8d82af08a3",
+			"categoria": "tenis",
+			"nome": "Tênis Infantil Olympikus Maneiro Masculino",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 487.34,
+			"margem": 71
+		},
+		{
+			"_id": "641b33f2102bc894dca06d42",
+			"categoria": "tenis",
+			"nome": "Tênis Olympikus Ultraleve 130G Feminino",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 591.91,
+			"margem": 66
+		},
+		{
+			"_id": "641b33f224834784de2ce8a7",
+			"categoria": "tenis",
+			"nome": "Tênis Olympikus Jogging 101 Masculino",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 372.71,
+			"margem": 68
+		},
+		{
+			"_id": "641b33f2bdd1ce884027355a",
+			"categoria": "tenis",
+			"nome": "Tênis Olympikus Citrus Feminino",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 257.89,
+			"margem": 83
+		},
+		{
+			"_id": "641b33f2b30c6683a7b2f58f",
+			"categoria": "tenis",
+			"nome": "Tênis Olympikus Veloz 2",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 521.78,
+			"margem": 71
+		},
+		{
+			"_id": "641b33f2f2a061d4d0812219",
+			"categoria": "tenis",
+			"nome": "Tênis Masculino Olympikus 43514215",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 356.51,
+			"margem": 80
+		},
+		{
+			"_id": "641b33f206d934e67439b98d",
+			"categoria": "tenis",
+			"nome": "Tenis Olympikus Challenger 4 Masculino",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 663.71,
+			"margem": 55
+		},
+		{
+			"_id": "641b33f21f58e8c9b1ec279c",
+			"categoria": "tenis",
+			"nome": "Tênis Olympikus Aquarios Masculino",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 422.06,
+			"margem": 79
+		},
+		{
+			"_id": "641b34daff9f41cb1e79ad3b",
+			"categoria": "camisa",
+			"nome": "Camisa Polo Ultimato Listrada Masculina",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 160.86,
+			"margem": 48
+		},
+		{
+			"_id": "641b34da1cb10bd7902ca752",
+			"categoria": "camisa",
+			"nome": "Camisa Polo Colcci Manga Curta Masculina",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 194.25,
+			"margem": 38
+		},
+		{
+			"_id": "641b34daa8c0b37bd75aef3c",
+			"categoria": "camisa",
+			"nome": "Camisa Polo São Paulo Ouro Vintage RetrôMania Masculina",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 187.1,
+			"margem": 38
+		},
+		{
+			"_id": "641b34da71948a39549bf68d",
+			"categoria": "camisa",
+			"nome": "Camisa Polo Adidas Club Masculina",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 194.2,
+			"margem": 37
+		},
+		{
+			"_id": "641b34da02dd3004fdecad7e",
+			"categoria": "camisa",
+			"nome": "Camisa Polo Masculina em Tecido Piquet Vira Lata Wear Kit",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 32.55,
+			"margem": 32
+		},
+		{
+			"_id": "641b34da81fd7da485f10e1c",
+			"categoria": "camisa",
+			"nome": "Camisa Polo Pierre Cardin Lisa Masculina",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 194.41,
+			"margem": 37
+		},
+		{
+			"_id": "641b34daeed8ac4e9c0f694b",
+			"categoria": "camisa",
+			"nome": "Camisa Polo Retro França 1998 Masculina",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 127.27,
+			"margem": 43
+		},
+		{
+			"_id": "641b34da86275a55ef7063ec",
+			"categoria": "camisa",
+			"nome": "Camisa Polo Lacoste Masculina",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 57.71,
+			"margem": 43
+		},
+		{
+			"_id": "641b34daee77f2d26755d2a7",
+			"categoria": "camisa",
+			"nome": "Camisa Polo Nike Sportswear Masculina",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 169.99,
+			"margem": 30
+		},
+		{
+			"_id": "641b34da684cf86b7c261421",
+			"categoria": "camisa",
+			"nome": "Camisa Polo Industrie Lisa Masculina",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 100.2,
+			"margem": 48
+		},
+		{
+			"_id": "641b34658617067113571221",
+			"categoria": "relogio",
+			"nome": "Relogio Masculino casual Analogico Numerico Preto",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 61.96,
+			"margem": 62
+		},
+		{
+			"_id": "641b34655ec563d055f8a768",
+			"categoria": "relogio",
+			"nome": "Relógio Casio Digital Feminino F-91WM-3ADF",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 52.38,
+			"margem": 67
+		},
+		{
+			"_id": "641b3465eb522199b62e53f5",
+			"categoria": "relogio",
+			"nome": "Relogio Masculino Banhado 18k + Pulseira Banhada A Ouro",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 332.66,
+			"margem": 48
+		},
+		{
+			"_id": "641b34657249cbd4053185f5",
+			"categoria": "relogio",
+			"nome": "Relógio Skmei Digital Masculino",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 149.08,
+			"margem": 40
+		},
+		{
+			"_id": "641b3465aca3e26b6472c347",
+			"categoria": "relogio",
+			"nome": "Relógio Tommy Hilfiger Feminino Aço 1782548",
+			"imagem": "http://placehold.it/100x100",
+			"precoCompra": 9.42,
+			"margem": 42
+		}
+	]
 }
