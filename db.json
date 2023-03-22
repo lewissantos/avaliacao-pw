@@ -1,5 +1,6 @@
 {
-	"produtos": [{
+	"produtos": [
+		{
 			"_id": "641b33f2cf26ba8d82af08a3",
 			"categoria": "tenis",
 			"nome": "Tênis Infantil Olympikus Maneiro Masculino",
