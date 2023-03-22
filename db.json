@@ -1,460 +1,189 @@
 {
-  "customers":
-[
-  {
-    "_id": "630fa6bc2d3ce7b89a2bda2e",
-    "nome": "Yang White",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      221.4,
-      499.24,
-      395.65,
-      413.59,
-      266.81,
-      97.59,
-      426.97,
-      419.22,
-      284.17,
-      368.97,
-      382.11
-    ],
-    "despesas": [
-      321.52,
-      246.01,
-      441.5,
-      111.57,
-      36.36,
-      160.73,
-      53.88
-    ]
-  },
-  {
-    "_id": "630fa6bc11c0de1519d7449a",
-    "nome": "Short Mclean",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      85.03,
-      137.8,
-      75.04,
-      369.71,
-      175.41,
-      319.51,
-      432.72,
-      124.71,
-      395.66,
-      117.3,
-      448.58,
-      364.74
-    ],
-    "despesas": [
-      107.83,
-      470.36,
-      17.24,
-      255.74,
-      140.92,
-      486.96,
-      295.17,
-      121.85,
-      51.59,
-      22.75,
-      149.04,
-      409.35,
-      141.57
-    ]
-  },
-  {
-    "_id": "630fa6bc6d31756858a5d2a9",
-    "nome": "Agnes Mcgee",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      151.97,
-      415.7,
-      376.93,
-      25.3,
-      139.85,
-      291.64,
-      14.36,
-      237.82
-    ],
-    "despesas": [
-      41.12,
-      419.47,
-      6.94,
-      482.98,
-      270.42,
-      334.11,
-      243,
-      322.82,
-      125.6
-    ]
-  },
-  {
-    "_id": "630fa6bc931c3a659285a4fd",
-    "nome": "Browning Knight",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      254.22,
-      99.03,
-      391.81,
-      20.68,
-      255.27,
-      223.41,
-      390.84
-    ],
-    "despesas": [
-      292.22,
-      284.57,
-      96.6,
-      177.31,
-      319.9,
-      266.56,
-      246.96,
-      73.51,
-      438.48
-    ]
-  },
-  {
-    "_id": "630fa6bc09f75d133b3c18d2",
-    "nome": "Marissa Meadows",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      300.76,
-      410.34,
-      4.75,
-      426.32,
-      223,
-      480.02,
-      294.71,
-      60.1,
-      281.63,
-      13.09,
-      47.49,
-      465.78,
-      427.52,
-      192.46
-    ],
-    "despesas": [
-      458.92,
-      450.91,
-      324.45,
-      67.31,
-      394.29,
-      462.66,
-      56.91,
-      148.3,
-      318.73,
-      430.61,
-      311.12
-    ]
-  },
-  {
-    "_id": "630fa6bcd97176c21916cd4e",
-    "nome": "Griffith Patterson",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      334.52,
-      490.99,
-      460.03,
-      168.88,
-      69.46,
-      223.18,
-      194.77,
-      63.84,
-      451.74,
-      65.53,
-      471.5,
-      379.98,
-      398.58,
-      381.34,
-      436.96
-    ],
-    "despesas": [
-      240.43,
-      130.67,
-      461.59,
-      315.64,
-      207.39,
-      474.05,
-      211.09,
-      37.06,
-      123.33,
-      84.88
-    ]
-  },
-  {
-    "_id": "630fa6bcc1b7e9e373be6f3b",
-    "nome": "Sherry Bernard",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      413.41,
-      35.82,
-      478.82,
-      463.72,
-      163.76,
-      458.18,
-      44.95,
-      44.28,
-      111.75,
-      420.62,
-      489.4,
-      334.2,
-      372.46
-    ],
-    "despesas": [
-      277.23,
-      448.36,
-      128.12,
-      137.42,
-      176.46,
-      32.01,
-      83.18,
-      156.52,
-      233.05,
-      49.12,
-      392.84,
-      255.65
-    ]
-  },
-  {
-    "_id": "630fa6bc39c19cb0ec9032ba",
-    "nome": "Selena Wyatt",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      180.45,
-      54.84,
-      215.11,
-      95.17,
-      99.95,
-      17.95,
-      258.58
-    ],
-    "despesas": [
-      244.99,
-      127.23,
-      337.18,
-      378.34,
-      445.53,
-      414.49,
-      363.72,
-      391.78,
-      282.33,
-      146.92
-    ]
-  },
-  {
-    "_id": "630fa6bc53ff0334c037140d",
-    "nome": "Hoffman Atkins",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      374.34,
-      484.98,
-      216.39,
-      264.42,
-      117.14,
-      270.73,
-      189.15,
-      175.44
-    ],
-    "despesas": [
-      367.49,
-      395.46,
-      110.58,
-      137.79,
-      320.58,
-      447.92,
-      184.19,
-      185.29,
-      249.08,
-      331,
-      297.64
-    ]
-  },
-  {
-    "_id": "630fa6bc698305f68b0afe74",
-    "nome": "Haley Blevins",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      3.03,
-      204.47,
-      104.6,
-      86.29,
-      474.12,
-      346.93,
-      221.39,
-      62.88,
-      179.57,
-      486.63,
-      290.84
-    ],
-    "despesas": [
-      36.33,
-      58.92,
-      472.89,
-      351.1,
-      228.42,
-      140.72,
-      201.29,
-      62.28,
-      364.53
-    ]
-  },
-  {
-    "_id": "630fa6bc7d90cb2339aca1e7",
-    "nome": "Munoz Park",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      44.79,
-      364.87,
-      312.44,
-      372.8,
-      83.05,
-      262.62,
-      206.34,
-      120.52,
-      398.63,
-      245.76,
-      425.98,
-      266.7,
-      258.51,
-      155.62
-    ],
-    "despesas": [
-      319.96,
-      39.03,
-      230.57,
-      241.64,
-      45.04,
-      88.09,
-      408.21,
-      356.43,
-      456.45
-    ]
-  },
-  {
-    "_id": "630fa6bc7eebadb258cf1833",
-    "nome": "Guerrero Kramer",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      322.58,
-      138.18,
-      262.18,
-      280.92,
-      200.79,
-      488.65,
-      75.74,
-      228.82,
-      76.95,
-      401.33
-    ],
-    "despesas": [
-      298.35,
-      406.64,
-      366.49,
-      85.3,
-      289.55,
-      485.03,
-      7.69,
-      361.91,
-      39.95,
-      30.72,
-      465.53,
-      11.8
-    ]
-  },
-  {
-    "_id": "630fa6bc00a2000fe19f0cff",
-    "nome": "Gabrielle Mccray",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      288.24,
-      375.47,
-      44.36,
-      400.58,
-      230.92,
-      204.14,
-      312.36,
-      141.35,
-      159.5,
-      9.54,
-      68.27,
-      399.34,
-      42.94,
-      50.01,
-      229.58
-    ],
-    "despesas": [
-      91.72,
-      171.88,
-      402.31,
-      87.99,
-      356.25,
-      114.88,
-      493.44
-    ]
-  },
-  {
-    "_id": "630fa6bcad78f7b400befc68",
-    "nome": "Angel Singleton",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      105.01,
-      289.81,
-      452.97,
-      317.24,
-      394.59,
-      477.06,
-      375.36
-    ],
-    "despesas": [
-      195.63,
-      327.92,
-      220.82,
-      177.89,
-      173.28,
-      471.08,
-      1.34,
-      233.29,
-      167.52,
-      453.15,
-      21.42,
-      36.29,
-      319.7
-    ]
-  },
-  {
-    "_id": "630fa6bc51cc3515a63f68a6",
-    "nome": "Vicky Larsen",
-    "avatar": "https://via.placeholder.com/100",
-    "receitas": [
-      442.72,
-      428.49,
-      328.91,
-      295.5,
-      368.54,
-      129.31,
-      26.64,
-      349.7,
-      61.05,
-      256.28,
-      389.08,
-      333.66,
-      211.25
-    ],
-    "despesas": [
-      218.64,
-      347.82,
-      373.65,
-      255.34,
-      69.55,
-      320.79,
-      242.06,
-      130.64,
-      424.06,
-      364,
-      474.48,
-      51.5,
-      76.56
-    ]
-  }
-]  
+  "produtos":
+  [
+    {
+      "_id": "641b33f2cf26ba8d82af08a3",
+      "categoria": "tenis",
+      "nome": "Tênis Infantil Olympikus Maneiro Masculino",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 487.34,
+      "margem": 71
+      },
+      {
+      "_id": "641b33f2102bc894dca06d42",
+      "categoria": "tenis",
+      "nome": "Tênis Olympikus Ultraleve 130G Feminino",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 591.91,
+      "margem": 66
+      },
+      {
+      "_id": "641b33f224834784de2ce8a7",
+      "categoria": "tenis",
+      "nome": "Tênis Olympikus Jogging 101 Masculino",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 372.71,
+      "margem": 68
+      },
+      {
+      "_id": "641b33f2bdd1ce884027355a",
+      "categoria": "tenis",
+      "nome": "Tênis Olympikus Citrus Feminino",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 257.89,
+      "margem": 83
+      },
+      {
+      "_id": "641b33f2b30c6683a7b2f58f",
+      "categoria": "tenis",
+      "nome": "Tênis Olympikus Veloz 2",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 521.78,
+      "margem": 71
+      },
+      {
+      "_id": "641b33f2f2a061d4d0812219",
+      "categoria": "tenis",
+      "nome": "Tênis Masculino Olympikus 43514215",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 356.51,
+      "margem": 80
+      },
+      {
+      "_id": "641b33f206d934e67439b98d",
+      "categoria": "tenis",
+      "nome": "Tenis Olympikus Challenger 4 Masculino",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 663.71,
+      "margem": 55
+      },
+      {
+      "_id": "641b33f21f58e8c9b1ec279c",
+      "categoria": "tenis",
+      "nome": "Tênis Olympikus Aquarios Masculino",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 422.06,
+      "margem": 79
+      },
+      {
+      "_id": "641b34daff9f41cb1e79ad3b",
+      "categoria": "camisa",
+      "nome": "Camisa Polo Ultimato Listrada Masculina",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 160.86,
+      "margem": 48
+      },
+      {
+      "_id": "641b34da1cb10bd7902ca752",
+      "categoria": "camisa",
+      "nome":   "Camisa Polo Colcci Manga Curta Masculina",",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 194.25,
+      "margem": 38
+      },
+      {
+      "_id": "641b34daa8c0b37bd75aef3c",
+      "categoria": "camisa",
+      "nome": "Camisa Polo São Paulo Ouro Vintage RetrôMania Masculina",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 187.1,
+      "margem": 38
+      },
+      {
+      "_id": "641b34da71948a39549bf68d",
+      "categoria": "camisa",
+      "nome": "Camisa Polo Adidas Club Masculina",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 194.2,
+      "margem": 37
+      },
+      {
+      "_id": "641b34da02dd3004fdecad7e",
+      "categoria": "camisa",
+      "nome": "Camisa Polo Masculina em Tecido Piquet Vira Lata Wear Kit",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 32.55,
+      "margem": 32
+      },
+      {
+      "_id": "641b34da81fd7da485f10e1c",
+      "categoria": "camisa",
+      "nome": "Camisa Polo Pierre Cardin Lisa Masculina",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 194.41,
+      "margem": 37
+      },
+      {
+      "_id": "641b34daeed8ac4e9c0f694b",
+      "categoria": "camisa",
+      "nome": "Camisa Polo Retro França 1998 Masculina",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 127.27,
+      "margem": 43
+      },
+      {
+      "_id": "641b34da86275a55ef7063ec",
+      "categoria": "camisa",
+      "nome": "Camisa Polo Lacoste Masculina",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 57.71,
+      "margem": 43
+      },
+      {
+      "_id": "641b34daee77f2d26755d2a7",
+      "categoria": "camisa",
+      "nome": "Camisa Polo Nike Sportswear Masculina",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 169.99,
+      "margem": 30
+      },
+      {
+      "_id": "641b34da684cf86b7c261421",
+      "categoria": "camisa",
+      "nome": "Camisa Polo Industrie Lisa Masculina",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 100.2,
+      "margem": 48
+      },
+      {
+      "_id": "641b34658617067113571221",
+      "categoria": "relogio",
+      "nome": "Relogio Masculino casual Analogico Numerico Preto",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 61.96,
+      "margem": 62
+      },
+      {
+      "_id": "641b34655ec563d055f8a768",
+      "categoria": "relogio",
+      "nome": "Relógio Casio Digital Feminino F-91WM-3ADF",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 52.38,
+      "margem": 67
+      },
+      {
+      "_id": "641b3465eb522199b62e53f5",
+      "categoria": "relogio",
+      "nome": "Relogio Masculino Banhado 18k + Pulseira Banhada A Ouro",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 332.66,
+      "margem": 48
+      },
+      {
+      "_id": "641b34657249cbd4053185f5",
+      "categoria": "relogio",
+      "nome": "Relógio Skmei Digital Masculino",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 149.08,
+      "margem": 40
+      },
+      {
+      "_id": "641b3465aca3e26b6472c347",
+      "categoria": "relogio",
+      "nome": "Relógio Tommy Hilfiger Feminino Aço 1782548",
+      "imagem": "http://placehold.it/100x100",
+      "precoCompra": 9.42,
+      "margem": 42
+      }
+  ]  
 }
